@@ -1,2 +1,2 @@
 # Amir
-Personal website for Amir Syed.
+Hosting code for Amir's central website.
