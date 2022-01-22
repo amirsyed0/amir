@@ -1,9 +1,19 @@
 #title {
-  color: blue;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: white;
   font-family: 'Roboto', sans-serif;
 }
 
 h2 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
   color: white;
   font-family: 'Roboto', sans-serif;
 }
