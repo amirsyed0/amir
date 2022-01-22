@@ -8,3 +8,6 @@ h2 {
   font-family: 'Roboto', sans-serif;
 }
 
+#tradingview-widget-container {
+      max-width: 250px;
+  }
